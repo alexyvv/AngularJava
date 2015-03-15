@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="javaee7-angular:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="javaee7-angular-3.3.war">
+      <element id="artifact" artifact-name="javaee7-angular:war exploded" />
+    </root>
+  </artifact>
+</component>
